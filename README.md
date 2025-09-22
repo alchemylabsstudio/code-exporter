@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/python-3.6%2B-blue)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
 
-![Screenshot]([https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey](https://github.com/alchemylabsstudio/code-exporter/blob/main/assets/Code%20Exporter%20-%20Screenshot.png))
+![Screenshot](https://raw.githubusercontent.com/alchemylabsstudio/code-exporter/main/assets/Code%20Exporter%20-%20Screenshot.png)
 
 A modern desktop application for exporting project source code to a single file while maintaining folder structure and allowing customized file selection.
 
@@ -35,3 +35,4 @@ git clone https://github.com/alchemylabsstudio/code-exporter.git
 cd code-exporter
 
 pip install -r requirements.txt
+
